@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/queuingSystem/gradutionPro.iml" filepath="$PROJECT_DIR$/queuingSystem/gradutionPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/queuingSystem.iml" filepath="$PROJECT_DIR$/.idea/queuingSystem.iml" />
+    </modules>
+  </component>
+</project>
